@@ -1,6 +1,4 @@
-# FOSDEM 2026 Open Hardware and CAD/CAM Devroom
-
-## Call for Participation
+# Call for Participation
 
 We are pleased to announce the CfP for the Open Hardware and CAD/CAM devroom at FOSDEM 2026, 31 January-1 February 2026, Brussels, Belgium.
 
@@ -45,14 +43,14 @@ questions and answers.
 Depending on the number of submissions, submitters may be asked to 
 utilize an alternate time format.
 
-### Important Dates
+## Important Dates
 
 * Submission deadline: 5 December 2025
 * Acceptance notifications: 10 December 2025
 * Final schedule announcement: 15 December 2025
 * Devroom: 1 February 2026
 
-### The submission process
+## The submission process
 
 Please submit your proposal at https://pretalx.fosdem.org/fosdem-2026/cfp before 5 Dec 2025.
 
@@ -69,17 +67,17 @@ Fill in at least a title and abstract for the proposed talk and a suggested dura
 
 Keep in mind that much of the value in these meetings comes from the discussions, so please allot at least 20% of the talk time for questions and answers.
 
-### Questions?
+## Questions?
 
 If you have any questions or need guidance on any aspect of submitting, preparing or presenting, please e-mail chennes at freecad.org.
 
-### Volunteering
+## Volunteering
 
 If you are interested in helping the devroom run smoothly, please reach 
 out to Chris Hennes (@chennes) or Jo Hinchliffe (@concretedog) and we'll 
 be very happy to have your assistance!
 
-### Recordings
+## Recordings
 
 The talks will be recorded and live-streamed during FOSDEM26. The recordings will be published under the same licence as all FOSDEM content (CC-BY). Only presentations and Q&A will be recorded, not informal discussions and whatever happens during breaks between presentations.  We require affirmative consent to this license.  Please include the following statement in your submission notes:
 
