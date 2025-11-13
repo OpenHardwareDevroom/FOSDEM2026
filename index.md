@@ -1,6 +1,12 @@
+---
+layout: default
+---
+
+The Open Hardware and CAD/CAM "devroom" at FOSDEM 2026 is an opportunity for developers of Open Hardware projects and related software tools to gather and share their work, meet developers from other projects, network, and learn from one another. After many years of being run by Seth Hillbrand (of KiCAD fame), the 2026 devroom is being coordinated by Chris Hennes (@chennes, chennes@freecad.org) and Jo Hinchliffe (@concretedog, jo@concretedog.xyz). We aspire to carry on the tradition Seth developed of a dynamic, interactive room full of interesting presentations and projects.
+
 # Call for Participation
 
-We are pleased to announce the CfP for the Open Hardware and CAD/CAM devroom at FOSDEM 2026, 31 January-1 February 2026, Brussels, Belgium.
+We are pleased to announce the CfP for the Open Hardware and CAD/CAM devroom at FOSDEM 2026, 31 January and 1 February 2026 in Brussels, Belgium.
 
 The devroom will take place on Sunday, 1 February 2026 at [ULB (Campus Solbosch)](https://www.openstreetmap.org/node/1632534522).
 
