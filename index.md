@@ -52,7 +52,7 @@ utilize an alternate time format.
 
 ## The submission process
 
-Please submit your proposal at the [FOSDEM PreTalx site](https://pretalx.fosdem.org/fosdem-2026/cfp) before 5 Dec 2025.
+Please submit your proposal at the [FOSDEM pretalx site](https://pretalx.fosdem.org/fosdem-2026/cfp) before 5 Dec 2025.
 
 Select the "Open Hardware and CAD/CAM" session. Please note that the "Open Source Design" track, while a lovely group of wonderful hackers, is not the same. 
 
